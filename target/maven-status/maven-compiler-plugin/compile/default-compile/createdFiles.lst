@@ -1,0 +1,5 @@
+com\webber\Contact.class
+com\webber\StoreServlet.class
+com\webber\User.class
+com\webber\ListServlet.class
+com\webber\ProfileServlet.class
